@@ -3,8 +3,8 @@ Implementation of the least squares method for constructing an approximating pol
 
 The method consists in obtaining coefficients of a polynomial of the `n`-th degree for the given points of the graph of some function `f(x,y)` in the Cartesian coordinate system, such that this polynomial is an approximating function for `f(x,y)`     
 
-polynomial of n=th degree:
-![polynomial of n=th degree](polynomial_func.JPG)
+polynomial of n-th degree:
+![polynomial of n-th degree](polynomial_func.JPG)
 
 ## Input data
 At the entrance to the program, an Excel file is submitted with a set of points (x, y) of the original graph of the function that needs to be approximated. And also the degree of the approximating polynomial (in code variable `degree`)   
